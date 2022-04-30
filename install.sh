@@ -8,4 +8,6 @@ sudo cp -r ../manpac  /opt/manpac
 rm -rf ../manpac
 sudo pacman -S python-virtualenv --noconfirm
 cd /opt/manpac
+sudo chmod +x install.sh
+sudo chmod +x manpac.sh
 sudo ln -s /opt/manpac/manpac.sh /usr/bin/manpac
