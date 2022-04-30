@@ -1,5 +1,5 @@
 # manpac
-Simple package dependency explorer for arch linux.
+Simple package dependency explorer for Arch Linux.
 
 ## This program depends on: 
 * pip3
