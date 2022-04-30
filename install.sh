@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo rm /usr/bin/manpac
+sudo rm -rf /opt/manpac
 virtualenv manpacqt
 source /opt/manpac/manpacqt/bin/activate
 pip3 --no-input install PyQt5 
