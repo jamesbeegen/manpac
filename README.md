@@ -4,7 +4,7 @@ Simple package dependency explorer for Arch Linux.
 ## This program depends on: 
 * pip3
 * python-virtualenv
-
+###### These are installed as part of the install script.
 
 ## Install
 Run the following commands to install
